@@ -1,3 +1,4 @@
+###### Codrops
 Created by Codrops
 
 http://www.codrops.com
@@ -6,7 +7,10 @@ Integrate or build upon it for free in your personal or commercial projects. Don
 
 Read more here: http://tympanus.net/codrops/licensing/
 
-`css/component.css` is where the classes are stored. 
+- - -
+
+`link-effects_codrops.css` is where the classes are stored.
+Simply include the file where you want to use the link-effect classes.  
 
 Simply call a class is a wrapper element like so:
 
@@ -21,3 +25,5 @@ Simply call a class is a wrapper element like so:
 ```
 
 Where `cl-effect-1` is the class calling the first effect from: http://tympanus.net/Development/CreativeLinkEffects/
+
+- - -
