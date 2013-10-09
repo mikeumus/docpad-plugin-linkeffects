@@ -11,6 +11,7 @@ Read more here: http://tympanus.net/codrops/licensing/
 
 `link-effects_codrops.css` is where the classes are stored.
 Simply include the file where you want to use the link-effect classes.  
+For a hosted version use: https://googledrive.com/host/0B9LVk4xbDIJTdVROUVVuZW50RkE/link-effects_codrop.css
 
 Simply call a class is a wrapper element like so:
 
